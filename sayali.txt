@@ -1,0 +1,12 @@
+
+# 1] hi all these is first editing
+
+a=69
+b=1000
+
+echo "In 2019 shareprice of  tata-motors  was $a"
+echo "In 2024 shareprice of  tata-motors  is $b"
+
+# end of first editing
+
+
