@@ -10,3 +10,18 @@ echo "In 2024 shareprice of  tata-motors  is $b"
 # end of first editing
 
 
+
+
+
+# 2] hi all these is second editing
+
+a=200
+b=3200
+
+echo "in 2020 adani share price was $a"
+echo "in 2024 adani share price is $b"
+
+
+# end of second editing
+
+
