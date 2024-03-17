@@ -25,3 +25,15 @@ echo "in 2024 adani share price is $b"
 # end of second editing
 
 
+
+# 3] These is third editing from tejas
+
+a=160
+b=450
+
+echo "in 2020 ITC share price was $a"
+echo "in 2024 ITC share price is $b"
+
+
+# end of second editing
+
