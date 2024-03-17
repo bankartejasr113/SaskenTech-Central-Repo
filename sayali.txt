@@ -57,7 +57,8 @@ echo "in 2024 jacob share price is $b"
 # 5] These is fifth  editing from pankaj
 
 a=1615
-b=1200
+b=
+1200
 
 echo "in 2020 Infosys share  price was $a"
 echo "in 2024 Infosys share price is $b"
@@ -79,3 +80,20 @@ echo "in 2024 ajwani share price is $b"
 
 
 # end of sixth editing
+
+
+
+
+
+
+# 6] These is seventh  editing from pankaj
+
+a=1615
+b=1200
+
+echo "in 2020 jktyre share  price was $a"
+echo "in 2024 jktyre share price is $b"
+
+
+# end of sixth editing
+
