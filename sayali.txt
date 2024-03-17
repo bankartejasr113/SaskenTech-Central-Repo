@@ -95,5 +95,5 @@ echo "in 2020 jktyre share  price was $a"
 echo "in 2024 jktyre share price is $b"
 
 
-# end of sixth editing
+# end of eventh editing
 
