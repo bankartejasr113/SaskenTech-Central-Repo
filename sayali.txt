@@ -53,3 +53,15 @@ echo "in 2024 jacob share price is $b"
 
 # end of fourth editing
 
+
+# 3] These is fourth  editing from tejas
+
+a=1615
+b=1200
+
+echo "in 2020 Infosys share  price was $a"
+echo "in 2024 Infosys share price is $b"
+
+
+# end of fifth editing
+
