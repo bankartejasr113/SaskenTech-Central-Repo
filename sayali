@@ -19,8 +19,8 @@ echo "in 2024 share price of ITC is $b"
 a=840
 b+1350
 
-echo "in 2020 share price of IBM was $a"
-echo "in 2024 share price of IBM is $b"
+echo "in 2020 share price of adanigreen was $a"
+echo "in 2024 share price of adanigreen is $b"
 
 # end of second  script
 
