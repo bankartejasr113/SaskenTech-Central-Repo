@@ -17,11 +17,24 @@ echo "in 2024 share price of ITC is $b"
 #!/bin/bash
 
 a=840
-b+1350
+b=1350
 
 echo "in 2020 share price of adanigreen was $a"
 echo "in 2024 share price of adanigreen is $b"
 
 # end of second  script
 
+
+
+# these is Third script written by Pankaj"
+
+#!/bin/bash
+
+a=26
+b=102
+
+echo "in 2020 share price of VPC was $a"
+echo "in 2024 share price of VPC is $b"
+
+# end  of third  script
 
