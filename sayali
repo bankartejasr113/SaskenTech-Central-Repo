@@ -1,0 +1,13 @@
+# These is first script written by tejas
+
+#!/bin/bash
+
+a=120
+b=549
+
+echo "in 2020 share price of ITC was $a"
+echo "in 2024 share price of ITC is $b"
+
+# end of first script
+
+
