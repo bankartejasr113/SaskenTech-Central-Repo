@@ -42,7 +42,7 @@ echo "in 2024 share price of VPC is $b"
 
 
 
-# these is Third script written by Pankaj"
+# these is fourth script written by Pankaj"
 
 #!/bin/bash
 
@@ -54,4 +54,19 @@ echo "in 2024 share price of T&T is $b"
 
 # end  of fourth  script
 
+
+
+
+
+#these is fifth script written by Demo"
+
+#!/bin/bash
+
+a=5600
+b=33
+
+echo "in 2020 share price of jagson was $a"
+echo "in 2024 share price of jagson is $b"
+
+# end  of fifth  script
 
